@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @abrandec
 - 👀 I’m interested in web3 development 
-- 🌱 I’m currently learning Javascript, React.js, blockchain development
+- 🌱 I’m currently learning Javascript, React.js, & blockchain development
 - 📫 How to reach me: abrandecarlo@protonmail.com ☺
 
 <!---
