@@ -1,3 +1,3 @@
 Web3 Developer
 
-Mostly use React as frontend
+Mainly use React as frontend
