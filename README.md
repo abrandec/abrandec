@@ -1,5 +1,1 @@
-Web3 Developer
-
-Mainly use React as frontend
-
-EVM ❤️ 
+Beep Boop Beep
