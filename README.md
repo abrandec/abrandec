@@ -1,1 +1,1 @@
-Beep Boop Beep
+Independent software engineer focused on smart contracts & DeFi security.
