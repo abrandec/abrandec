@@ -1,1 +1,1 @@
-Independent software engineer focused on smart contracts & DeFi security.
+Independent software engineer focusing on smart contracts & DeFi security.
