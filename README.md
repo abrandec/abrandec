@@ -2,6 +2,6 @@
 Beep Boop
 </h1>
 <p align="center">
-Smart contracts, Unix tools, anything that catches my attention
+Interested in blockchains, low-level computing, security, & programming languages
 </p>
 </p>
