@@ -2,6 +2,6 @@
 Beep Boop
 </h1>
 <p align="center">
-Interested in blockchains, low-level computing, security, & programming languages
+Interested in blockchains, low-level computing, & programming languages
 </p>
 </p>
